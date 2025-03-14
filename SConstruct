@@ -5,7 +5,7 @@ import platform
 import numpy as np
 
 
-arch = subprocess.check_output(["uname", "-m"], encoding='utf8').rstrip()
+arch = subprocess.check_output(["uname", "-m"], encoding='utf8').strip()
 if platform.system() == "Darwin":
   arch = "Darwin"
 
