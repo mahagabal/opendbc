@@ -1,4 +1,4 @@
-<div align="center" style="text-align: center;">
+<div align="center" style="text-align: center">
 <h1>opendbc</h1>
 <p>
   <b>opendbc is a Python API for your car.</b>
