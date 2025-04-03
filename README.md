@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
 <h1>opendbc</h1>
 <p>
-  <b>opendbc is a Python API for your car.</b>
+  <b>opendbc is a Python API for your car</b>
   <br>
   Control the gas brake, steering, and more. Read the speed, steering angle, and more.
 </p>
