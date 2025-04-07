@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<h1>opendbc</h1>
+<h1>opendc</h1>
 <p>
   <b>opendbc is a Python API for your car</b>
   <br>
